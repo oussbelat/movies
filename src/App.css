@@ -1,0 +1,90 @@
+body{
+  overflow-x: hidden;
+}
+
+.g-container {
+  width: 100vw;
+
+  background: linear-gradient(rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)),
+    url('https://cdn.moviefone.com/wp-content/uploads/2024/08/2024-fall-preview.jpg?q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+}
+
+.span {
+  color: #af1919c7;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: 500;
+
+}
+
+.input {
+  background-color: rgba(128, 128, 128, 0.329);
+}
+
+.button{
+  background-color: #af1919c7;
+  padding: 4px;
+  
+}
+
+.button:active {
+  transform: scale(0.97);
+}
+.h1head{
+  font-size: 54px;
+  width: 700px;
+}
+.headh2{
+  font-size: 28px;
+  width: 700px;
+}
+.headbutton{
+   background-color: #af1919c7;
+   color: white;
+   font-size: 25px;
+   width: fit-content;
+   padding: 4px 18px;
+   
+
+}
+.headbutton:active {
+  transform: scale(0.97);
+}
+.images{
+  width: 60px;
+  height: 60px;
+  margin-left: 80px;
+}
+.h1SEC1{
+   font-size: 35px;
+   font-weight:700;
+}
+.circle{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background:#db0909de;
+  position: relative;
+  
+ 
+}
+.phone-img{
+  position: absolute;
+ 
+}
+.h1seccircle{
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+  
+  
+}
